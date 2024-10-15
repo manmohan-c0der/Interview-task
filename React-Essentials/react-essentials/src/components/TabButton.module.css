@@ -1,0 +1,11 @@
+li {
+  list-style-type: none;
+}
+.btn {
+  color: white;
+  background-color: transparent;
+  padding: 10px 9px;
+  border-radius: 9px;
+  font-size: 22px;
+  border: none;
+}

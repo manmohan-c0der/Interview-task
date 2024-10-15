@@ -1,0 +1,22 @@
+.cardContainer {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imgs {
+  height: 120px;
+  width: 120px;
+  border-radius: 10px;
+}
+.para {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  text-align: center;
+}
+.head {
+  padding: 15px;
+}

@@ -1,0 +1,21 @@
+.HeaderContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Reactimg {
+  height: 200px;
+  width: 200px;
+}
+.heading {
+  font-size: 100px;
+  background: linear-gradient(to right, #ff0000, #0000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.paragraph {
+  font-size: 25px;
+}

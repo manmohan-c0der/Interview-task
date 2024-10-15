@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  /* font-style: normal; */
+}
+body {
+  color: #fff;
+  /* background-image: url(".\assets\bgimg2.jpg"); */
+  background-color: rgb(16, 12, 55);
+  min-height: 200vh;
+}
+
+#core-concepts {
+  margin-top: 54px;
+  /* border: 2px solid white; */
+  width: 70%;
+  margin-left: 15vw;
+  background-color: black;
+  padding-bottom: 50px;
+}
+.Heading {
+  padding-top: 30px;
+  font-size: 24px;
+}
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#examples {
+  margin-top: 54px;
+  /* border: 2px solid white; */
+  width: 70%;
+  margin-left: 15vw;
+}
+.btnContainer {
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px;
+  gap: 24px;
+}
+#tab-content {
+  padding: 1rem;
+  border-radius: 6px;
+  background-color: #2f1d43;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+#tab-content h3 {
+  margin: 0;
+}
+
+#tab-content code {
+  font-size: 1rem;
+}
